@@ -1,0 +1,92 @@
+body{
+	line-height: 4px;
+	margin: auto;
+	overflow: hidden;
+	background-color: #ccc;	
+}
+div {
+	width:900px;
+	height: 700px;
+	margin : auto;
+	background-color: white;
+	line-height:  14px;
+
+}
+h1{
+	font-family: serifs;
+	font-size: 40px;
+}
+#line {
+	height: 5px;
+	background-color : #0099cc;
+}
+h1{
+	color: #333;
+	padding-left: 15px;
+
+}
+h5{
+	font-size: 13px;
+	padding-left : 6%;
+}
+#menu {
+	height: 50px;
+	background-color : #0099cc;
+	width: 880px;
+	line-height: 50px;
+	font-size: 20;
+	color: black;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	color: white;
+}
+.button {
+	height: 45px;
+	background-color : black;
+	width: 600px;
+	margin-left: 80px;
+	line-height: 50px
+	color:black;
+}
+aside ul{
+	list-style: none;
+
+	display: inline;
+	line
+}
+li, a{
+	display: inline;
+	padding-right: 20px;
+}
+#home{
+	padding-right: 100px;
+}
+article img {
+	float: left;
+	height: 200px;
+	width:200px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+form li{
+	list-style: none;
+	margin-bottom: 20px;
+	display: inherit;
+}
+label{
+	display: block;
+	cursor: pointer;
+	color: #292929;
+	font-family: sans-serif;
+	padding-bottom: 8px;
+
+}
+textarea{
+	width: 400px;
+	height: 200px;
+}
