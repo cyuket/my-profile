@@ -1,9 +1,3 @@
 {
-  "environments": {
-    "test": {
-      "env": {
-        "PHOTON_TORPEDOES": "online"
-      }
-    }
-  }
+    "encoding": "US-ASCII"
 }
